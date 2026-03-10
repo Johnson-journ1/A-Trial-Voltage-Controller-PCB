@@ -1,0 +1,6 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+1,J1,USB_Micro-B_Molex_47346-0001,1,USB_B_Micro,
+2,J2,"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",1,Screw_Terminal_01x02,
+3,"C4,C2,C5",CP_Elec_6.3x7.7,3,22u,
+4,"C3,C1",C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,2,100u,
+5,U1,TO-252-3_TabPin2,1,AMS1117-3.3,
